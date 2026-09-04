@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m Hailey, nice to meet you.
+- 👋🏻 Hi, I’m Hailey, nice to meet you
 - 📫 Email me at haileymargibbs@gmail.com
 - 🌐 Visit [my website](https://haileymgibbs.github.io/) for more deets
 
